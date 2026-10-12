@@ -2,3 +2,12 @@ venv/
 .env
 __pycache__/
 *.pyc
+
+backend/.venv/
+backend/uploads/
+backend/.env
+.pytest_cache/
+
+frontend/node_modules/
+frontend/.next/
+frontend/.env*
