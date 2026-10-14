@@ -107,19 +107,56 @@ classDiagram
 ```
 
 ```mermaid
-erDiagram
-  candidates ||--o| profiles : perfil
-  candidates ||--o{ applications : solicita
-  vacancies ||--o{ applications : recibe_simulacion
-  applications ||--o| reminders : recuerda
-  candidates o|--o{ agent_logs : actividad
-  applications o|--o{ agent_logs : historial
-  candidates { string id PK datetime created_at }
-  profiles { string id PK string candidate_id FK string document_id UK json data string source datetime updated_at }
-  vacancies { string id PK json data }
-  applications { string id PK string candidate_id FK string vacancy_id FK string status json evidence datetime created_at }
-  reminders { string id PK string application_id FK datetime due_at string message boolean pending }
-  agent_logs { string id PK string candidate_id FK string application_id FK string agent string action string reason string result_ref string status datetime created_at }
+classDiagram
+  candidates "1..1" -- "0..1" profiles : perfil
+  candidates "1..1" -- "0..n" applications : solicita
+  vacancies "1..1" -- "0..n" applications : recibe_simulacion
+  applications "1..1" -- "0..1" reminders : recuerda
+  candidates "0..1" -- "0..n" agent_logs : actividad
+  applications "0..1" -- "0..n" agent_logs : historial
+
+  class candidates {
+    string id PK
+    datetime created_at
+  }
+  class profiles {
+    string id PK
+    string candidate_id FK
+    string document_id UK
+    json data
+    string source
+    datetime updated_at
+  }
+  class vacancies {
+    string id PK
+    json data
+  }
+  class applications {
+    string id PK
+    string candidate_id FK
+    string vacancy_id FK
+    string status
+    json evidence
+    datetime created_at
+  }
+  class reminders {
+    string id PK
+    string application_id FK
+    datetime due_at
+    string message
+    boolean pending
+  }
+  class agent_logs {
+    string id PK
+    string candidate_id FK
+    string application_id FK
+    string agent
+    string action
+    string reason
+    string result_ref
+    string status
+    datetime created_at
+  }
 ```
 
 Además de las PK: profiles.candidate_id y document_id son únicos; reminders.application_id es único; applications tiene unicidad compuesta candidato/vacante. El borrado de candidato propaga a perfil, postulaciones, recordatorios y trazas asociadas. Vacantes no se borran con el candidato. Las trazas globales de ingesta no tienen candidato.
