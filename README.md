@@ -1,9 +1,5 @@
 # WORKINT — Ejecutar y probar el proyecto del ZIP
 
-Guía para el equipo, basada en `Proyecto-ing-Software.zip` de la carpeta WORKINT, revisado el 13 de octubre de 2026. Puedes enviar este archivo junto al ZIP o colocarlo dentro de `Proyecto-ing-Software/`.
-
-La aplicación tiene dos partes que deben permanecer encendidas: backend Python/FastAPI en el puerto **8000** y frontend Next.js en el **3000**. La base de datos es SQLite y está incluida como archivo: no hay que instalar MySQL, PostgreSQL ni Docker. Tampoco necesitas Git para ejecutar el ZIP.
-
 ## 1. Instalar los requisitos
 
 - **Python 3.14**, para acercarse al entorno usado por el equipo (la documentación registra 3.14.7). Descarga: [Python oficial](https://www.python.org/downloads/). En Windows, habilita la opción para añadir Python al PATH si el instalador la ofrece.
@@ -330,9 +326,3 @@ NEXT_PUBLIC_API_URL=http://127.0.0.1:8001 npm run dev -- --hostname 127.0.0.1 --
 ```
 
 Abre `http://127.0.0.1:3001`; la documentación estará en `http://127.0.0.1:8001/docs`. Mantén el uso en localhost: el proyecto no incorpora autenticación.
-
-## 11. Qué enviar al equipo si algo falla
-
-Indica tu sistema operativo, versiones de Python/Node, carpeta desde la que ejecutaste el comando, comando exacto y mensaje completo del error. No adjuntes `.env` ni claves. Si el error aparece en la web, revisa también la terminal del backend.
-
-**Alcance de esta guía:** se contrastaron los pasos con el código, las dependencias y el contenido del ZIP disponible. No se ha realizado una instalación limpia en Windows ni macOS durante la preparación de este documento.
