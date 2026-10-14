@@ -467,14 +467,6 @@ npm run build
 
 Para comprender las decisiones de implementación, consultar [Arquitectura del proyecto](docs/entrega2/ARQUITECTURA.md) y [Avances recientes](README_AVANCES.md).
 
-## 7. Licencia
-
-Este proyecto fue desarrollado con fines académicos en el contexto del reto **Profile Manager de Magneto** y la asignatura de Ingeniería de Software de la Universidad EAFIT.
-
-En los archivos revisados no se identificó una licencia de software explícita (`LICENSE`).
-
-Por tanto, no debe asumirse que el código está publicado bajo una licencia de código abierto. Los términos de uso, modificación, distribución y reutilización deberán ser definidos o autorizados por los responsables del proyecto.
-
 ---
 
 **WORKINT — Profile Manager**
