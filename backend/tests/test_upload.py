@@ -23,7 +23,13 @@ def test_health():
 
 
 def test_upload_pdf(storage):
-    pdf = b"%PDF-1.4\nPDF de prueba\n"
+    from io import BytesIO
+    from reportlab.pdfgen import canvas
+    buffer = BytesIO()
+    document = canvas.Canvas(buffer)
+    document.drawString(72, 750, "CV de prueba con texto seleccionable")
+    document.save()
+    pdf = buffer.getvalue()
 
     response = client.post(
         URL,

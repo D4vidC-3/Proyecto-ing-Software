@@ -11,3 +11,11 @@ backend/.env
 frontend/node_modules/
 frontend/.next/
 frontend/.env*
+
+*.db
+*.db-shm
+*.db-wal
+*.tsbuildinfo
+
+backend/uploads_escenarios/
+.Rhistory

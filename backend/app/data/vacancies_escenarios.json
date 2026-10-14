@@ -1,0 +1,255 @@
+[
+  {
+    "id": "escenarios-v01",
+    "company": "Nube Andina Demo SAS",
+    "title": "Desarrollador Backend Python",
+    "description": "V01 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Desarrollar APIs REST con FastAPI, mantener consultas SQL y pruebas automatizadas sobre PostgreSQL.",
+    "location": "Medellín",
+    "work_mode": "hibrido",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 4500000,
+    "salary_max_cop": 6500000,
+    "years_experience": 2,
+    "required_skills": [
+      "Python",
+      "FastAPI",
+      "SQL",
+      "PostgreSQL",
+      "Git"
+    ],
+    "desired_skills": [
+      "Docker",
+      "Pytest"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  },
+  {
+    "id": "escenarios-v02",
+    "company": "Nodo Caribe Demo SAS",
+    "title": "Desarrollador Backend Node.js",
+    "description": "V02 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Construir servicios backend con Node.js, APIs Express y persistencia documental en MongoDB.",
+    "location": "Barranquilla",
+    "work_mode": "remoto",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 4000000,
+    "salary_max_cop": 6000000,
+    "years_experience": 3,
+    "required_skills": [
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Git"
+    ],
+    "desired_skills": [
+      "Redis",
+      "Jest"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  },
+  {
+    "id": "escenarios-v03",
+    "company": "Servicios Capital Demo SAS",
+    "title": "Desarrollador Backend Java",
+    "description": "V03 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Mantener aplicaciones empresariales, servicios Spring Boot e integración con bases de datos MySQL.",
+    "location": "Bogotá",
+    "work_mode": "remoto",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 4000000,
+    "salary_max_cop": 6000000,
+    "years_experience": 2,
+    "required_skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "MySQL",
+      "Git"
+    ],
+    "desired_skills": [
+      "JUnit",
+      "Docker"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  },
+  {
+    "id": "escenarios-v04",
+    "company": "Arquitectura Central Demo SAS",
+    "title": "Ingeniero Java Senior",
+    "description": "V04 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Diseñar sistemas distribuidos orientados a eventos y liderar revisiones de arquitectura en Kubernetes.",
+    "location": "Bogotá",
+    "work_mode": "presencial",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 7500000,
+    "salary_max_cop": 10000000,
+    "years_experience": 6,
+    "required_skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "Kubernetes",
+      "Microservicios",
+      "Redis"
+    ],
+    "desired_skills": [
+      "JUnit",
+      "Observabilidad"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  },
+  {
+    "id": "escenarios-v05",
+    "company": "Circuitos del Valle Demo SAS",
+    "title": "Ingeniero de Sistemas Embebidos",
+    "description": "V05 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Programar microcontroladores ESP32, integrar periféricos y validar comunicación entre dispositivos.",
+    "location": "Cali",
+    "work_mode": "presencial",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 3500000,
+    "salary_max_cop": 5500000,
+    "years_experience": 2,
+    "required_skills": [
+      "C",
+      "C++",
+      "Linux",
+      "ESP32",
+      "Git"
+    ],
+    "desired_skills": [
+      "UART",
+      "Electrónica digital"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  },
+  {
+    "id": "escenarios-v06",
+    "company": "Control Industrial Demo SAS",
+    "title": "Desarrollador de Firmware Senior",
+    "description": "V06 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Diseñar firmware de tiempo real para controladores STM32 y depurar buses CAN con herramientas JTAG.",
+    "location": "Pereira",
+    "work_mode": "presencial",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 6500000,
+    "salary_max_cop": 8500000,
+    "years_experience": 6,
+    "required_skills": [
+      "C",
+      "C++",
+      "STM32",
+      "FreeRTOS",
+      "CAN",
+      "JTAG"
+    ],
+    "desired_skills": [
+      "SPI",
+      "MISRA C"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  },
+  {
+    "id": "escenarios-v07",
+    "company": "Observatorio Datos Demo SAS",
+    "title": "Analista de Datos",
+    "description": "V07 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Limpiar y analizar datos de operaciones; construir informes en Excel y tableros de indicadores con Power BI.",
+    "location": "Medellín",
+    "work_mode": "remoto",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 3000000,
+    "salary_max_cop": 5000000,
+    "years_experience": 2,
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "desired_skills": [
+      "PostgreSQL",
+      "ETL"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  },
+  {
+    "id": "escenarios-v08",
+    "company": "Flujos Digitales Demo SAS",
+    "title": "Ingeniero de Datos",
+    "description": "V08 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Operar pipelines distribuidos, orquestar cargas con Airflow y mantener modelos analíticos en AWS.",
+    "location": "Bogotá",
+    "work_mode": "hibrido",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 6000000,
+    "salary_max_cop": 8000000,
+    "years_experience": 4,
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Apache Spark",
+      "Airflow",
+      "AWS",
+      "dbt"
+    ],
+    "desired_skills": [
+      "Kafka",
+      "Terraform"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  },
+  {
+    "id": "escenarios-v09",
+    "company": "Interfaces Capital Demo SAS",
+    "title": "Desarrollador Frontend React",
+    "description": "V09 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Construir interfaces web accesibles con React y TypeScript e integrar servicios HTTP.",
+    "location": "Bogotá",
+    "work_mode": "hibrido",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 3500000,
+    "salary_max_cop": 5500000,
+    "years_experience": 2,
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "desired_skills": [
+      "Git",
+      "Pruebas frontend"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  },
+  {
+    "id": "escenarios-v10",
+    "company": "Portal Oriente Demo SAS",
+    "title": "Desarrollador Frontend Angular",
+    "description": "V10 - DEMOSTRACIÓN ACADÉMICA. Oferta ficticia; contratación exclusivamente simulada y local. Desarrollar portales empresariales Angular con flujos RxJS y gestión de estado mediante NgRx.",
+    "location": "Bucaramanga",
+    "work_mode": "presencial",
+    "contract_type": "Indefinido (simulado)",
+    "salary_min_cop": 4500000,
+    "salary_max_cop": 6500000,
+    "years_experience": 3,
+    "required_skills": [
+      "TypeScript",
+      "Angular",
+      "RxJS",
+      "NgRx",
+      "HTML",
+      "CSS"
+    ],
+    "desired_skills": [
+      "Jasmine",
+      "Cypress"
+    ],
+    "published_at": "2026-10-13",
+    "source": "demo"
+  }
+]

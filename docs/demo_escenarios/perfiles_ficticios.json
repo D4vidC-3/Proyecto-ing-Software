@@ -1,0 +1,283 @@
+[
+  {
+    "candidate": "A",
+    "target_vacancy": "escenarios-v01",
+    "pdf": "CV_A_python.pdf",
+    "profile": {
+      "name": "Valeria Ríos Luna",
+      "email": "valeria.rios@example.com",
+      "location": "Medellín",
+      "professional_summary": "Desarrollé APIs REST con FastAPI y Python. Modelé bases PostgreSQL, optimicé consultas SQL y mantuve pruebas con Pytest, control de versiones Git y entornos Docker.",
+      "target_role": "Desarrollador Backend Python",
+      "years_experience": 3,
+      "skills": [
+        "Python",
+        "FastAPI",
+        "SQL",
+        "PostgreSQL",
+        "Git",
+        "Docker",
+        "Pytest"
+      ],
+      "languages": [
+        "Español"
+      ],
+      "work_experience": [
+        {
+          "company": "Laboratorio API Demo SAS",
+          "role": "Desarrollador Backend Python",
+          "start_date": "2023-07",
+          "end_date": "2026-06",
+          "description": "Desarrollé APIs REST con FastAPI y Python. Modelé bases PostgreSQL, optimicé consultas SQL y mantuve pruebas con Pytest, control de versiones Git y entornos Docker."
+        }
+      ],
+      "education": [
+        {
+          "degree": "Ingeniería de Sistemas",
+          "institution": "Instituto Universitario Horizonte Demo (ficticio)",
+          "start_year": 2018,
+          "end_year": 2022
+        }
+      ],
+      "preferences": {
+        "desired_roles": [
+          "Desarrollador Backend Python"
+        ],
+        "preferred_locations": [
+          "Medellín"
+        ],
+        "work_modes": [
+          "hibrido"
+        ],
+        "salary_min_cop": 5000000,
+        "salary_max_cop": 6000000,
+        "contract_type": "Indefinido",
+        "availability": "Inmediata"
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "target_vacancy": "escenarios-v03",
+    "pdf": "CV_B_java.pdf",
+    "profile": {
+      "name": "Mateo Salazar Vega",
+      "email": "mateo.salazar@example.com",
+      "location": "Bogotá",
+      "professional_summary": "Desarrollé aplicaciones empresariales y servicios backend con Java y Spring Boot. Implementé consultas SQL en MySQL, pruebas con JUnit y revisión de código con Git.",
+      "target_role": "Desarrollador Backend Java",
+      "years_experience": 3,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "MySQL",
+        "Git",
+        "JUnit"
+      ],
+      "languages": [
+        "Español"
+      ],
+      "work_experience": [
+        {
+          "company": "Soluciones Java Demo SAS",
+          "role": "Desarrollador Backend Java",
+          "start_date": "2023-07",
+          "end_date": "2026-06",
+          "description": "Desarrollé aplicaciones empresariales y servicios backend con Java y Spring Boot. Implementé consultas SQL en MySQL, pruebas con JUnit y revisión de código con Git."
+        }
+      ],
+      "education": [
+        {
+          "degree": "Ingeniería de Software",
+          "institution": "Instituto Universitario Horizonte Demo (ficticio)",
+          "start_year": 2018,
+          "end_year": 2022
+        }
+      ],
+      "preferences": {
+        "desired_roles": [
+          "Desarrollador Backend Java"
+        ],
+        "preferred_locations": [
+          "Bogotá"
+        ],
+        "work_modes": [
+          "remoto"
+        ],
+        "salary_min_cop": 4500000,
+        "salary_max_cop": 5500000,
+        "contract_type": "Indefinido",
+        "availability": "Inmediata"
+      }
+    }
+  },
+  {
+    "candidate": "C",
+    "target_vacancy": "escenarios-v05",
+    "pdf": "CV_C_embebidos.pdf",
+    "profile": {
+      "name": "Camila Torres Prado",
+      "email": "camila.torres@example.com",
+      "location": "Cali",
+      "professional_summary": "Programé microcontroladores ESP32 con C y C++ en Linux. Integré comunicación UART entre dispositivos y registré versiones de firmware en Git.",
+      "target_role": "Ingeniero de Sistemas Embebidos",
+      "years_experience": 3,
+      "skills": [
+        "C",
+        "C++",
+        "Linux",
+        "ESP32",
+        "Git",
+        "UART"
+      ],
+      "languages": [
+        "Español"
+      ],
+      "work_experience": [
+        {
+          "company": "Prototipos del Sur Demo SAS",
+          "role": "Ingeniero de Sistemas Embebidos",
+          "start_date": "2023-07",
+          "end_date": "2026-06",
+          "description": "Programé microcontroladores ESP32 con C y C++ en Linux. Integré comunicación UART entre dispositivos y registré versiones de firmware en Git."
+        }
+      ],
+      "education": [
+        {
+          "degree": "Ingeniería Electrónica",
+          "institution": "Instituto Universitario Horizonte Demo (ficticio)",
+          "start_year": 2018,
+          "end_year": 2022
+        }
+      ],
+      "preferences": {
+        "desired_roles": [
+          "Ingeniero de Sistemas Embebidos"
+        ],
+        "preferred_locations": [
+          "Cali"
+        ],
+        "work_modes": [
+          "presencial"
+        ],
+        "salary_min_cop": 4000000,
+        "salary_max_cop": 5000000,
+        "contract_type": "Indefinido",
+        "availability": "Inmediata"
+      }
+    }
+  },
+  {
+    "candidate": "D",
+    "target_vacancy": "escenarios-v07",
+    "pdf": "CV_D_datos.pdf",
+    "profile": {
+      "name": "Nicolás Pardo Sol",
+      "email": "nicolas.pardo@example.com",
+      "location": "Medellín",
+      "professional_summary": "Limpié y analicé datos con Python y SQL sobre PostgreSQL. Desarrollé procesos ETL, reportes en Excel y visualizaciones de indicadores en Power BI.",
+      "target_role": "Analista de Datos",
+      "years_experience": 3,
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "ETL",
+        "PostgreSQL"
+      ],
+      "languages": [
+        "Español"
+      ],
+      "work_experience": [
+        {
+          "company": "Métricas Claras Demo SAS",
+          "role": "Analista de Datos",
+          "start_date": "2023-07",
+          "end_date": "2026-06",
+          "description": "Limpié y analicé datos con Python y SQL sobre PostgreSQL. Desarrollé procesos ETL, reportes en Excel y visualizaciones de indicadores en Power BI."
+        }
+      ],
+      "education": [
+        {
+          "degree": "Ingeniería de Sistemas",
+          "institution": "Instituto Universitario Horizonte Demo (ficticio)",
+          "start_year": 2018,
+          "end_year": 2022
+        }
+      ],
+      "preferences": {
+        "desired_roles": [
+          "Analista de Datos"
+        ],
+        "preferred_locations": [
+          "Medellín"
+        ],
+        "work_modes": [
+          "remoto"
+        ],
+        "salary_min_cop": 3500000,
+        "salary_max_cop": 4500000,
+        "contract_type": "Indefinido",
+        "availability": "Inmediata"
+      }
+    }
+  },
+  {
+    "candidate": "E",
+    "target_vacancy": "escenarios-v09",
+    "pdf": "CV_E_react.pdf",
+    "profile": {
+      "name": "Daniela Mora Céspedes",
+      "email": "daniela.mora@example.com",
+      "location": "Bogotá",
+      "professional_summary": "Construí interfaces web con React, JavaScript y TypeScript. Implementé páginas adaptables con HTML y CSS e integré APIs REST usando Git para control de versiones.",
+      "target_role": "Desarrollador Frontend React",
+      "years_experience": 3,
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "languages": [
+        "Español"
+      ],
+      "work_experience": [
+        {
+          "company": "Estudio Web Demo SAS",
+          "role": "Desarrollador Frontend React",
+          "start_date": "2023-07",
+          "end_date": "2026-06",
+          "description": "Construí interfaces web con React, JavaScript y TypeScript. Implementé páginas adaptables con HTML y CSS e integré APIs REST usando Git para control de versiones."
+        }
+      ],
+      "education": [
+        {
+          "degree": "Ingeniería de Software",
+          "institution": "Instituto Universitario Horizonte Demo (ficticio)",
+          "start_year": 2018,
+          "end_year": 2022
+        }
+      ],
+      "preferences": {
+        "desired_roles": [
+          "Desarrollador Frontend React"
+        ],
+        "preferred_locations": [
+          "Bogotá"
+        ],
+        "work_modes": [
+          "hibrido"
+        ],
+        "salary_min_cop": 4000000,
+        "salary_max_cop": 5000000,
+        "contract_type": "Indefinido",
+        "availability": "Inmediata"
+      }
+    }
+  }
+]

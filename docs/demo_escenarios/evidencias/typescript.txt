@@ -1,0 +1,3 @@
+Comando: npx tsc --noEmit --incremental false
+Código de salida: 0
+Sin diagnósticos.

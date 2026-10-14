@@ -1,0 +1,393 @@
+[
+  {
+    "id": "demo-01",
+    "company": "Laboratorio Andino 01 (ficticia)",
+    "title": "Desarrollador Backend Python",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de desarrollador backend python. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Medellín",
+    "work_mode": "hibrido",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 4500000,
+    "salary_max_cop": 6500000,
+    "years_experience": 3.0,
+    "required_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-01",
+    "source": "demo"
+  },
+  {
+    "id": "demo-02",
+    "company": "Laboratorio Andino 02 (ficticia)",
+    "title": "Desarrollador Backend Python",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de desarrollador backend python. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Bogotá",
+    "work_mode": "remoto",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 4000000,
+    "salary_max_cop": 6000000,
+    "years_experience": 2.0,
+    "required_skills": [
+      "Python",
+      "Django",
+      "SQL"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-02",
+    "source": "demo"
+  },
+  {
+    "id": "demo-03",
+    "company": "Laboratorio Andino 03 (ficticia)",
+    "title": "Ingeniero de Datos",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de ingeniero de datos. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Bogotá",
+    "work_mode": "hibrido",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 6000000,
+    "salary_max_cop": 8500000,
+    "years_experience": 4.0,
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Spark"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-03",
+    "source": "demo"
+  },
+  {
+    "id": "demo-04",
+    "company": "Laboratorio Andino 04 (ficticia)",
+    "title": "Desarrollador Frontend React",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de desarrollador frontend react. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Medellín",
+    "work_mode": "remoto",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 4000000,
+    "salary_max_cop": 6000000,
+    "years_experience": 2.0,
+    "required_skills": [
+      "React",
+      "TypeScript",
+      "CSS"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-04",
+    "source": "demo"
+  },
+  {
+    "id": "demo-05",
+    "company": "Laboratorio Andino 05 (ficticia)",
+    "title": "Analista QA Automatización",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de analista qa automatización. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Cali",
+    "work_mode": "remoto",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 3500000,
+    "salary_max_cop": 5000000,
+    "years_experience": 2.0,
+    "required_skills": [
+      "Python",
+      "Pytest",
+      "Git"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-05",
+    "source": "demo"
+  },
+  {
+    "id": "demo-06",
+    "company": "Laboratorio Andino 06 (ficticia)",
+    "title": "Desarrollador Java",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de desarrollador java. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Bogotá",
+    "work_mode": "presencial",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 4500000,
+    "salary_max_cop": 6000000,
+    "years_experience": 3.0,
+    "required_skills": [
+      "Java",
+      "Spring",
+      "SQL"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-06",
+    "source": "demo"
+  },
+  {
+    "id": "demo-07",
+    "company": "Laboratorio Andino 07 (ficticia)",
+    "title": "Analista de Datos",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de analista de datos. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Barranquilla",
+    "work_mode": "hibrido",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 2800000,
+    "salary_max_cop": 4200000,
+    "years_experience": 1.0,
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-07",
+    "source": "demo"
+  },
+  {
+    "id": "demo-08",
+    "company": "Laboratorio Andino 08 (ficticia)",
+    "title": "Ingeniero DevOps",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de ingeniero devops. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Medellín",
+    "work_mode": "remoto",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 5000000,
+    "salary_max_cop": 7500000,
+    "years_experience": 3.0,
+    "required_skills": [
+      "Linux",
+      "Docker",
+      "GitHub Actions"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-08",
+    "source": "demo"
+  },
+  {
+    "id": "demo-09",
+    "company": "Laboratorio Andino 09 (ficticia)",
+    "title": "Desarrollador Junior Python",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de desarrollador junior python. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Pereira",
+    "work_mode": "hibrido",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 2000000,
+    "salary_max_cop": 3000000,
+    "years_experience": 0.0,
+    "required_skills": [
+      "Python",
+      "Git"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-09",
+    "source": "demo"
+  },
+  {
+    "id": "demo-10",
+    "company": "Laboratorio Andino 10 (ficticia)",
+    "title": "Soporte Técnico",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de soporte técnico. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Bucaramanga",
+    "work_mode": "presencial",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 1800000,
+    "salary_max_cop": 2600000,
+    "years_experience": 1.0,
+    "required_skills": [
+      "Linux",
+      "Redes"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-10",
+    "source": "demo"
+  },
+  {
+    "id": "demo-11",
+    "company": "Laboratorio Andino 11 (ficticia)",
+    "title": "Desarrollador Full Stack",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de desarrollador full stack. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Medellín",
+    "work_mode": "hibrido",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 4000000,
+    "salary_max_cop": 5800000,
+    "years_experience": 2.0,
+    "required_skills": [
+      "React",
+      "Python",
+      "PostgreSQL"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-10",
+    "source": "demo"
+  },
+  {
+    "id": "demo-12",
+    "company": "Laboratorio Andino 12 (ficticia)",
+    "title": "Ingeniero Backend APIs",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de ingeniero backend apis. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Cali",
+    "work_mode": "remoto",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 4500000,
+    "salary_max_cop": 5500000,
+    "years_experience": 3.0,
+    "required_skills": [
+      "FastAPI",
+      "REST",
+      "Docker"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-10",
+    "source": "demo"
+  },
+  {
+    "id": "demo-13",
+    "company": "Laboratorio Andino 13 (ficticia)",
+    "title": "Analista de Ciberseguridad",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de analista de ciberseguridad. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Bogotá",
+    "work_mode": "hibrido",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 4000000,
+    "salary_max_cop": 6000000,
+    "years_experience": 2.0,
+    "required_skills": [
+      "Linux",
+      "Redes",
+      "Seguridad"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-10",
+    "source": "demo"
+  },
+  {
+    "id": "demo-14",
+    "company": "Laboratorio Andino 14 (ficticia)",
+    "title": "Diseñador UX",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de diseñador ux. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Medellín",
+    "work_mode": "presencial",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 3000000,
+    "salary_max_cop": 4500000,
+    "years_experience": 2.0,
+    "required_skills": [
+      "Figma",
+      "Investigación"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-10",
+    "source": "demo"
+  },
+  {
+    "id": "demo-15",
+    "company": "Laboratorio Andino 15 (ficticia)",
+    "title": "Desarrollador Mobile",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de desarrollador mobile. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Bogotá",
+    "work_mode": "remoto",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": null,
+    "salary_max_cop": null,
+    "years_experience": 2.0,
+    "required_skills": [
+      "Kotlin",
+      "Android"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-10",
+    "source": "demo"
+  },
+  {
+    "id": "demo-16",
+    "company": "Laboratorio Andino 16 (ficticia)",
+    "title": "Ingeniero de Software Python",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de ingeniero de software python. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Manizales",
+    "work_mode": "remoto",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 4500000,
+    "salary_max_cop": 7000000,
+    "years_experience": 3.0,
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Git"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-10",
+    "source": "demo"
+  },
+  {
+    "id": "demo-17",
+    "company": "Laboratorio Andino 17 (ficticia)",
+    "title": "Administrador de Bases de Datos",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de administrador de bases de datos. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Cali",
+    "work_mode": "presencial",
+    "contract_type": "Término indefinido",
+    "salary_min_cop": 4200000,
+    "salary_max_cop": 6200000,
+    "years_experience": 3.0,
+    "required_skills": [
+      "PostgreSQL",
+      "SQL",
+      "Linux"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-10",
+    "source": "demo"
+  },
+  {
+    "id": "demo-18",
+    "company": "Laboratorio Andino 18 (ficticia)",
+    "title": "Practicante Desarrollo",
+    "description": "Vacante ficticia para desarrollar y mantener soluciones de practicante desarrollo. Colaboración con equipo local, documentación y revisión de calidad. Solo demostración académica.",
+    "location": "Medellín",
+    "work_mode": "hibrido",
+    "contract_type": "Práctica",
+    "salary_min_cop": 1400000,
+    "salary_max_cop": 1800000,
+    "years_experience": 0.0,
+    "required_skills": [
+      "Python",
+      "Git"
+    ],
+    "desired_skills": [
+      "Scrum"
+    ],
+    "published_at": "2026-10-10",
+    "source": "demo"
+  }
+]

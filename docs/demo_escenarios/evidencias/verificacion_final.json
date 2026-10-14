@@ -1,0 +1,25 @@
+{
+  "fecha_utc": "2026-10-13T10:38:40.170471+00:00",
+  "base": "/home/r347/Documentos/ChatGPT/WORKINT/Proyecto-ing-Software/backend/workint_escenarios.db",
+  "conteos": {
+    "candidates": 0,
+    "profiles": 0,
+    "vacancies": 10,
+    "applications": 0,
+    "reminders": 0,
+    "eventos_candidatos": 0,
+    "eventos_tecnicos": 2
+  },
+  "integridad": "ok",
+  "respaldo": "/home/r347/Documentos/ChatGPT/BACKUPS/workint_20261013T102425Z",
+  "archivos_historicos_comprobados": 25,
+  "archivos_historicos_alterados": [],
+  "matching_sin_cambios": true,
+  "pytest": "86 passed in 11.05s",
+  "typescript": "exit 0",
+  "lint": "exit 0",
+  "build": "exit 0",
+  "navegador": "http://127.0.0.1:3000: 10 vacantes ficticias, 0 perfiles, 0 postulaciones; verificado mediante árbol de accesibilidad",
+  "groq_real": "No ejecutado; pruebas con proveedor simulado",
+  "uploads_nuevos": []
+}

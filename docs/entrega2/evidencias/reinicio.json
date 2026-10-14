@@ -1,0 +1,9 @@
+{
+  "check": "reinicio real de uvicorn, misma SQLite",
+  "profiles": 2,
+  "vacancies": 18,
+  "application_id": "5a4d2119bd7745bdb02337fec10aa6d6",
+  "status": "en_revision",
+  "evidence_operation": "5a4d2119bd7745bdb02337fec10aa6d6",
+  "result": "PASS"
+}

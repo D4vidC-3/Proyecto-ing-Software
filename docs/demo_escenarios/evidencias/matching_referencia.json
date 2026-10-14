@@ -1,0 +1,237 @@
+[
+  {
+    "candidato": "A",
+    "perfil": "Valeria Ríos Luna",
+    "objetivo": "escenarios-v01",
+    "ranking": [
+      {
+        "id": "escenarios-v01",
+        "score": 100.0
+      },
+      {
+        "id": "escenarios-v03",
+        "score": 51.33
+      },
+      {
+        "id": "escenarios-v07",
+        "score": 42.5
+      },
+      {
+        "id": "escenarios-v08",
+        "score": 40.0
+      },
+      {
+        "id": "escenarios-v02",
+        "score": 39.0
+      },
+      {
+        "id": "escenarios-v09",
+        "score": 31.67
+      },
+      {
+        "id": "escenarios-v05",
+        "score": 19.0
+      },
+      {
+        "id": "escenarios-v10",
+        "score": 16.67
+      },
+      {
+        "id": "escenarios-v06",
+        "score": 6.67
+      },
+      {
+        "id": "escenarios-v04",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "candidato": "B",
+    "perfil": "Mateo Salazar Vega",
+    "objetivo": "escenarios-v03",
+    "ranking": [
+      {
+        "id": "escenarios-v03",
+        "score": 100.0
+      },
+      {
+        "id": "escenarios-v02",
+        "score": 54.0
+      },
+      {
+        "id": "escenarios-v07",
+        "score": 46.25
+      },
+      {
+        "id": "escenarios-v01",
+        "score": 41.33
+      },
+      {
+        "id": "escenarios-v04",
+        "score": 31.67
+      },
+      {
+        "id": "escenarios-v09",
+        "score": 26.67
+      },
+      {
+        "id": "escenarios-v05",
+        "score": 19.0
+      },
+      {
+        "id": "escenarios-v08",
+        "score": 17.5
+      },
+      {
+        "id": "escenarios-v10",
+        "score": 16.67
+      },
+      {
+        "id": "escenarios-v06",
+        "score": 6.67
+      }
+    ]
+  },
+  {
+    "candidato": "C",
+    "perfil": "Camila Torres Prado",
+    "objetivo": "escenarios-v05",
+    "ranking": [
+      {
+        "id": "escenarios-v05",
+        "score": 100.0
+      },
+      {
+        "id": "escenarios-v06",
+        "score": 30.0
+      },
+      {
+        "id": "escenarios-v02",
+        "score": 29.0
+      },
+      {
+        "id": "escenarios-v03",
+        "score": 29.0
+      },
+      {
+        "id": "escenarios-v10",
+        "score": 25.0
+      },
+      {
+        "id": "escenarios-v04",
+        "score": 21.67
+      },
+      {
+        "id": "escenarios-v07",
+        "score": 20.0
+      },
+      {
+        "id": "escenarios-v01",
+        "score": 19.0
+      },
+      {
+        "id": "escenarios-v08",
+        "score": 10.0
+      },
+      {
+        "id": "escenarios-v09",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "candidato": "D",
+    "perfil": "Nicolás Pardo Sol",
+    "objetivo": "escenarios-v07",
+    "ranking": [
+      {
+        "id": "escenarios-v07",
+        "score": 100.0
+      },
+      {
+        "id": "escenarios-v01",
+        "score": 47.0
+      },
+      {
+        "id": "escenarios-v03",
+        "score": 44.0
+      },
+      {
+        "id": "escenarios-v02",
+        "score": 35.0
+      },
+      {
+        "id": "escenarios-v08",
+        "score": 25.0
+      },
+      {
+        "id": "escenarios-v05",
+        "score": 10.0
+      },
+      {
+        "id": "escenarios-v09",
+        "score": 10.0
+      },
+      {
+        "id": "escenarios-v10",
+        "score": 10.0
+      },
+      {
+        "id": "escenarios-v04",
+        "score": 0
+      },
+      {
+        "id": "escenarios-v06",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "candidato": "E",
+    "perfil": "Daniela Mora Céspedes",
+    "objetivo": "escenarios-v09",
+    "ranking": [
+      {
+        "id": "escenarios-v09",
+        "score": 100.0
+      },
+      {
+        "id": "escenarios-v10",
+        "score": 45.83
+      },
+      {
+        "id": "escenarios-v02",
+        "score": 43.0
+      },
+      {
+        "id": "escenarios-v01",
+        "score": 40.67
+      },
+      {
+        "id": "escenarios-v03",
+        "score": 35.67
+      },
+      {
+        "id": "escenarios-v08",
+        "score": 25.0
+      },
+      {
+        "id": "escenarios-v07",
+        "score": 20.0
+      },
+      {
+        "id": "escenarios-v05",
+        "score": 19.0
+      },
+      {
+        "id": "escenarios-v04",
+        "score": 10.0
+      },
+      {
+        "id": "escenarios-v06",
+        "score": 6.67
+      }
+    ]
+  }
+]

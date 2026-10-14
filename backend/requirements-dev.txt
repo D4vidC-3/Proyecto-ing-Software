@@ -1,2 +1,3 @@
 pytest
 httpx
+reportlab==5.0.1
